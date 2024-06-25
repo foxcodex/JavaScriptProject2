@@ -1,3 +1,4 @@
+//function that counts the number of characters in a given string
 function countCharacters(str) {
     return str.length;
 }
